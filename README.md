@@ -11,5 +11,7 @@ The project consists of the following components:
 - C Code (DirectSyscall.cpp): Implements the main logic to get syscall numbers, initialize structures, and call the syscalls to open and close a file.
 
 References:
-https://programminghaven.home.blog/2020/02/16/setup-an-assembly-project-on-visual-studio-2019/
-https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls
+
+[Configure your Setup Assembly](https://programminghaven.home.blog/2020/02/16/setup-an-assembly-project-on-visual-studio-2019/)
+
+[Others Example Code Direct Syscall by VirtualAlllocEx](https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls)
