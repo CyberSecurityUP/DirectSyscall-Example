@@ -1,0 +1,7 @@
+﻿  DirectSyscall.cpp
+C:\Users\Operator\Desktop\Scripts\Syscalls\DirectSyscall\DirectSyscall\syscalls.h(15,21): error C2373: 'NtOpenFile': redefinition; different type modifiers
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winternl.h(479,1): message : see declaration of 'NtOpenFile'
+C:\Users\Operator\Desktop\Scripts\Syscalls\DirectSyscall\DirectSyscall\syscalls.h(24,21): error C2373: 'NtClose': redefinition; different type modifiers
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winternl.h(449,1): message : see declaration of 'NtClose'
+C:\Users\Operator\Desktop\Scripts\Syscalls\DirectSyscall\DirectSyscall\DirectSyscall.cpp(28,5): error C2065: 'NtOpenFile': undeclared identifier
+C:\Users\Operator\Desktop\Scripts\Syscalls\DirectSyscall\DirectSyscall\DirectSyscall.cpp(31,5): error C2065: 'NtClose': undeclared identifier
