@@ -15,3 +15,7 @@ References:
 [Configure your Setup Assembly](https://programminghaven.home.blog/2020/02/16/setup-an-assembly-project-on-visual-studio-2019/)
 
 [Others Example Code Direct Syscall by VirtualAlllocEx](https://github.com/VirtualAlllocEx/Direct-Syscalls-vs-Indirect-Syscalls)
+
+
+## TO-DO
+- Indirect Syscall Example
